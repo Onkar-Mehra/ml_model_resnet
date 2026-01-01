@@ -1,0 +1,39 @@
+# Models
+models_copy/
+
+
+# Logs
+logs/
+*.log
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+my_database/
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp files
+*.tmp
+*.bak
